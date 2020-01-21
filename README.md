@@ -11,7 +11,7 @@ Es una aplicación que utiliza **ABM**(alta, baja y modificación de datos) o CR
 
 ### Héroe:
 
-![Heroe](vista/heroe.jpg)
+![Heroe](vista/nuevoheroe.jpg)
 
 ### Index con datos
 Listado de los heroes con ABM.
