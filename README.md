@@ -20,7 +20,7 @@ Listado de los heroes con ABM.
 
 
 ### Base de datos
-![Base de datos](bd.jpg)
+![Base de datos](vista/bd.jpg)
 
 ## Uso:
 
