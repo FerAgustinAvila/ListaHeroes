@@ -1,27 +1,37 @@
-# Heroesapp
+# Heroes App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
+Aplicación creada usando HTML5, CSS3 y JavaScript con Angular. Además de usar como base de datos a Firebase.
+Es una aplicación que utiliza **ABM**(alta, baja y modificación de datos) o CRUD "Crear, Leer, Actualizar y Borrar" (del original en inglés: Create, Read, Update and Delete)
 
-## Development server
+## Vistas:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Index:
 
-## Code scaffolding
+![Index](vista/index.jpg)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Héroe:
 
-## Build
+![Heroe](vista/heroe.jpg)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### Index con datos
+Listado de los heroes con ABM.
 
-## Running unit tests
+![Index con datos](vista/index2.jpg)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+### Base de datos
+![Base de datos](bd.jpg)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Uso:
 
-## Further help
+Despues de descargar el repositorio, a traves de la linea de comando ejecutar el siguiente script:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**npm install**
+
+y luego:
+
+**ng serve** 
+
+o
+
+**ng serve -o**
